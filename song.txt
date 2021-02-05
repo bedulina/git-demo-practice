@@ -1,0 +1,2 @@
+The entire Pro Git book, 
+written by Scott Chacon and Ben Straub
