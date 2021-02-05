@@ -3,4 +3,4 @@ written by Scott Chacon and Ben Straub
 and published by Apress, is available here.
 addd something more
 
-All content is licensed under the
+All content is licensed 
